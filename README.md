@@ -29,7 +29,7 @@ It helps beginners understand Python basics like:
 ## 🚀 How to Run
 1. Download or open `calc.py`
 2. Run using Python:
-3. Enter numbers and choose operation
+3. Enter any one number to choose operation.
 
 ---
 
